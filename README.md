@@ -1,6 +1,21 @@
 <h2 align="left">Hi 👋! My name is Daniel Hernandez and I'm 22 years old, from Colombia</h2>
 
 ###
+<main>
+          <h2 class="titulo">Desarrollador front-end | Estudiante de Ingeniería de Software</h2>
+  
+        <section>
+          <h3>Sobre mí</h3>
+          <img src="img/foto_sin_fondo.png" />
+          <p>
+            Soy un estudiante de Ingeniería de Software con experiencia en
+            desarrollo front-end, utilizando tecnologías como HTML, CSS y
+            JavaScript. Busco integrarme al mundo laboral para aplicar mis
+            conocimientos, aprender nuevas tecnologías y contribuir a proyectos
+            innovadores.
+          </p>
+        </section>
+    </main>
 
 
 ###
