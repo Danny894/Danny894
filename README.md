@@ -1,4 +1,4 @@
-<h1 align="left">Hola a todos 👋! Mi nombre es Daniel y soy Desarrollador front-end | Estudiante de Ingeniería de Software</h1>
+<h1 align="left">Hola a todos 👋!</h1>
 
 ###
 
