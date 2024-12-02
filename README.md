@@ -1,16 +1,16 @@
-<h1 align="left">Hola 👋! Mi nombre es Daniel y soy Desarrollador front-end | Estudiante de Ingeniería de Software</h1>
+<h1 align="left">Hola a todos 👋! Mi nombre es Daniel y soy Desarrollador front-end | Estudiante de Ingeniería de Software</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Mi nombre es Daniel, soy de Colombia y soy Desarrollador front-end | Estudiante de Ingeniería de Software</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Acerca de mí</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Soy un programador front-end apasionado por la creación de interfaces web intuitivas y dinámicas. Cuento con experiencia en el uso de tecnologías como HTML, CSS y JavaScript para desarrollar soluciones modernas. Además, estoy cursando Ingeniería de Software, lo que me permite complementar mis habilidades técnicas con una sólida base académica en desarrollo de software</p>
 
 ###
 
