@@ -1,5 +1,4 @@
-<h1 align="left">Hola 👋! Mi nombre es Daniel y soy Desarrollador front-end | Estudiante de Ingeniería de Software![image](https://github.com/user-attachments/assets/e7d80134-f060-43c2-98f8-d2dbb27820e6)
-</h1>
+<h1 align="left">Hola 👋! Mi nombre es Daniel y soy Desarrollador front-end | Estudiante de Ingeniería de Software</h1>
 
 ###
 
