@@ -1,12 +1,13 @@
 
 # Daniel Hernandez
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps://github.com/Danny894%2Fhttps://github.com/Danny894&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/Dannydaniel_dev)](https://twitter.com/https://x.com/Dannydaniel_dev)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/daniel-hernandez-alarcon-466112268/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/dannydaniel02//)](https://www.instagram.com/https://www.instagram.com/dannydaniel02/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Danny894@outlook.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://danny894.github.io/)](https://danny894.github.io/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps://github.com/Danny894%2Fhttps://github.com/Danny894&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com){:target="_blank" rel="noopener noreferrer"}
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/Dannydaniel_dev)](https://twitter.com/https://x.com/Dannydaniel_dev){:target="_blank" rel="noopener noreferrer"}
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/daniel-hernandez-alarcon-466112268/){:target="_blank" rel="noopener noreferrer"}
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/dannydaniel02//)](https://www.instagram.com/https://www.instagram.com/dannydaniel02/){:target="_blank" rel="noopener noreferrer"}
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Danny894@outlook.com){:target="_blank" rel="noopener noreferrer"}
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://danny894.github.io/)](https://danny894.github.io/){:target="_blank" rel="noopener noreferrer"}
+
 
 -💻 Soy un programador front-end apasionado por la creación de interfaces web intuitivas y dinámicas. Cuento con experiencia en el uso de tecnologías como HTML, CSS y JavaScript para desarrollar soluciones modernas. Además, estoy cursando Ingeniería de Software, lo que me permite complementar mis habilidades técnicas con una sólida base académica en desarrollo de software.
 
