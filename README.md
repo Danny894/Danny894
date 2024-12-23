@@ -23,5 +23,16 @@
 - Comunicación efectiva
 - Trabajo en equipo
 ### ⚙️ Tecnologías 
-![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=000000) ![Bootstrap](https://img.shields.io/badge/-Css-05122A?style=flat-square&logo=Css&color=000000) ![Bootstrap](https://img.shields.io/badge/-Html-05122A?style=flat-square&logo=Html&color=000000) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=000000) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=000000) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=000000) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=000000)
+	
+## <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"> Mira y Admira <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">:
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+</p>
+<p align="center">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">"ESPERO QUE ESTE REPOSITORIO  FUESE DE TU AGRADO , TE MANDO UN SALUDO GRANDE"<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+	<br>
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+</p>
 
