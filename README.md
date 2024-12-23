@@ -1,14 +1,20 @@
 # Daniel Hernandez
+<h1 align="center"><img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">" Saludos , Haz llegado a mi perfil" <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps://github.com/Danny894%2Fhttps://github.com/Danny894&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/Dannydaniel_dev)](https://twitter.com/https://x.com/Dannydaniel_dev)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/daniel-hernandez-alarcon-466112268/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/dannydaniel02//)](https://www.instagram.com/https://www.instagram.com/dannydaniel02/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Danny894@outlook.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://danny894.github.io/)](https://danny894.github.io/)
+<br>
 
+<p align="center">
+ <img  height="470rem" alt="GIF" src="https://github.com/user-attachments/assets/59f924c4-7caf-4232-8592-8affffcc8371"/>
+</p>
 
--💻 Soy un programador front-end apasionado por la creación de interfaces web intuitivas y dinámicas. Cuento con experiencia en el uso de tecnologías como HTML, CSS y JavaScript para desarrollar soluciones modernas. Además, estoy cursando Ingeniería de Software, lo que me permite complementar mis habilidades técnicas con una sólida base académica en desarrollo de software.
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Whoami:
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+-💻 Soy un entusiasta de la ciberseguridad, con conocimientos en pruebas de penetración (pentesting), análisis de vulnerabilidades y uso de herramientas como Nmap, Shodan y Metasploit. Actualmente, estoy formándome en hacking ético con un enfoque en Red Team. Mi objetivo es proteger sistemas y redes, identificando brechas de seguridad antes de que lo hagan los atacantes maliciosos. ¡Estoy abierto a oportunidades para seguir creciendo en el ámbito de la ciberseguridad!
 
 ### 🖥 Skills
 
