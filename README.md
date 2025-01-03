@@ -2,7 +2,7 @@
 <h1 align="center">
   <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
-  Hola, Bienvenido a mi perfil
+  Hello, Welcome to my profile
   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
   <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
 </h1>
@@ -15,34 +15,34 @@
 
 ---
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px> Sobre mí
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px> About Me
 
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 </picture>
 
-Soy un entusiasta de la **ciberseguridad**, con experiencia en:
+I am a **cybersecurity enthusiast**, with experience in:
 
-- Pentesting (pruebas de penetración)
-- Análisis de vulnerabilidades
-- Uso de herramientas como **Nmap, Shodan y Metasploit**
+- Pentesting (penetration testing)
+- Vulnerability analysis
+- Using tools like **Nmap, Shodan, and Metasploit**
 
-Actualmente, me estoy formando en **hacking ético** con un enfoque en **Red Team**. Mi objetivo es proteger sistemas y redes, identificando brechas de seguridad antes de que lo hagan los atacantes. Estoy abierto a oportunidades para seguir creciendo en este apasionante campo.
-
----
-
-## 🖥️ Habilidades
-
-- Resolución de problemas
-- Adaptabilidad
-- Comunicación efectiva
-- Trabajo en equipo
+Currently, I am training in **ethical hacking** with a focus on **Red Team**. My goal is to protect systems and networks by identifying security breaches before attackers do. I am open to opportunities to continue growing in this exciting field.
 
 ---
 
-## ⚙️ Tecnologías
+## 🖥️ Skills
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
+- Problem-solving
+- Adaptability
+- Effective communication
+- Teamwork
+
+---
+
+## ⚙️ Technologies
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -69,7 +69,7 @@ Actualmente, me estoy formando en **hacking ético** con un enfoque en **Red Tea
 
 ---
 
-## 🎮 Diversión en el Código
+## 🎮 Fun in Code
 
 <p align = "center">
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
@@ -78,8 +78,10 @@ Actualmente, me estoy formando en **hacking ético** con un enfoque en **Red Tea
 ---
 
 <p align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-  Gracias por visitar mi perfil. ¡Espero que encuentres algo interesante aquí!
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> 
+  Thank you for visiting my profile. I hope you find something interesting here!
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 </p>
+
+
 
