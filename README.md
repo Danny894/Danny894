@@ -21,13 +21,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 </picture>
 
-I am a **cybersecurity enthusiast**, with experience in:
-
-- Pentesting (penetration testing)
-- Vulnerability analysis
-- Using tools like **Nmap, Shodan, and Metasploit**
-
-Currently, I am training in **ethical hacking** with a focus on **Red Team**. My goal is to protect systems and networks by identifying security breaches before attackers do. I am open to opportunities to continue growing in this exciting field.
+I am a **Software Engineering student** with a focus on **web development** and **cybersecurity**. I am passionate about creating interactive and secure web applications using modern technologies such as **JavaScript**, **React**, **Node.js**, **Angular**, **HTML**, **CSS**, and **TypeScript**. Additionally, I have fundamental knowledge in **cybersecurity**, enabling me to implement protective measures in my projects. I am looking for my first job opportunity to continue developing my skills and contribute my knowledge to innovative projects in web development and cybersecurity.
 
 ---
 
@@ -44,9 +38,6 @@ Currently, I am training in **ethical hacking** with a focus on **Red Team**. My
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -56,23 +47,61 @@ Currently, I am training in **ethical hacking** with a focus on **Red Team**. My
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
+## 📚 Education
+
+- **Software Engineering** – Corporación Universitaria Iberoamericana (2022 – Present)
+- **El Riesgo Crediticio y su Administración** – SENA (2018 – 2020)
+
+---
+
+## 📝 Personal Projects
+
+- **Dani Store**: Dani Store is a web store dedicated to selling custom sweaters with logos of different programming languages. This store is designed using HTML and CSS, offering a simple and visually appealing experience for programming enthusiasts who want to showcase their favorite language everywhere.
+
+---
+
+## 🌐 Languages
+
+- **Spanish**: Native
+- **English**: Intermediate (B1)
+
+---
+
+## 📜 Certifications
+
+- **Google Cybersecurity** – Coursera
+
+---
+
 ## 🎮 Fun in Code
 
-<p align = "center">
-  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
 ---
@@ -82,6 +111,4 @@ Currently, I am training in **ethical hacking** with a focus on **Red Team**. My
   Thank you for visiting my profile. I hope you find something interesting here!
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 </p>
-
-
 
