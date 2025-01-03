@@ -72,29 +72,6 @@ I am a **Software Engineering student** with a focus on **web development** and 
 
 ---
 
-## 📚 Education
-
-- **Software Engineering** – Corporación Universitaria Iberoamericana (2022 – Present)
-- **El Riesgo Crediticio y su Administración** – SENA (2018 – 2020)
-
----
-
-## 📝 Personal Projects
-
-- **Dani Store**: Dani Store is a web store dedicated to selling custom sweaters with logos of different programming languages. This store is designed using HTML and CSS, offering a simple and visually appealing experience for programming enthusiasts who want to showcase their favorite language everywhere.
-
----
-
-## 🌐 Languages
-
-- **Spanish**: Native
-- **English**: Intermediate (B1)
-
----
-
-## 📜 Certifications
-
-- **Google Cybersecurity** – Coursera
 
 ---
 
