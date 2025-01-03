@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img height="450rem" alt="GIF" src="https://github.com/user-attachments/assets/59f924c4-7caf-4232-8592-8affffcc8371"/>
+  <img height="auto" width="100%" alt="GIF" src="https://github.com/user-attachments/assets/59f924c4-7caf-4232-8592-8affffcc8371"/>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px> About Me
 
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px" alt="About Me Image">
 </picture>
 
 I am a **Software Engineering student** with a focus on **web development** and **cybersecurity**. I am passionate about creating interactive and secure web applications using modern technologies such as **JavaScript**, **React**, **Node.js**, **Angular**, **HTML**, **CSS**, and **TypeScript**. Additionally, I have fundamental knowledge in **cybersecurity**, enabling me to implement protective measures in my projects. I am looking for my first job opportunity to continue developing my skills and contribute my knowledge to innovative projects in web development and cybersecurity.
@@ -72,9 +72,6 @@ I am a **Software Engineering student** with a focus on **web development** and 
 
 ---
 
-
----
-
 ## 🎮 Fun in Code
 
 <p align="center">
@@ -88,4 +85,5 @@ I am a **Software Engineering student** with a focus on **web development** and 
   Thank you for visiting my profile. I hope you find something interesting here!
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 </p>
+
 
