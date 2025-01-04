@@ -21,7 +21,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px" alt="About Me Image">
 </picture>
 
-I am a **Software Engineering student** with a focus on **web development** and **cybersecurity**. I am passionate about creating interactive and secure web applications using modern technologies such as **JavaScript**, **React**, **Node.js**, **Angular**, **HTML**, **CSS**, and **TypeScript**. Additionally, I have fundamental knowledge in **cybersecurity**, enabling me to implement protective measures in my projects. I am looking for my first job opportunity to continue developing my skills and contribute my knowledge to innovative projects in web development and cybersecurity.
+I am a **Software Engineering student** with a focus on **Frond End development** and **cybersecurity**. I am passionate about creating interactive and secure web applications using modern technologies such as **JavaScript**, **React**, **Node.js**, **Angular**, **HTML**, **CSS**, and **TypeScript**. Additionally, I have fundamental knowledge in **cybersecurity**, enabling me to implement protective measures in my projects. I am looking for my first job opportunity to continue developing my skills and contribute my knowledge to innovative projects in web development and cybersecurity.
 
 ---
 
