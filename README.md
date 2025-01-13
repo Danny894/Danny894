@@ -1,17 +1,7 @@
-<h1 align="center">
-  <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
-  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
-  Hello, Welcome to my profile
-  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
-  <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
-</h1>
 
----
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">Hi everybody <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">, I'm Danny894.</h1>
 <h3 align="center"> Frontend Developer </h3>
-
----
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px> About Me
 
