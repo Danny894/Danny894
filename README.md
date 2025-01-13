@@ -9,9 +9,6 @@
 
 ---
 
-<p align="center">
-  <img height="auto" width="100%" alt="GIF" src="https://github.com/user-attachments/assets/59f924c4-7caf-4232-8592-8affffcc8371"/>
-</p>
 
 ---
 
