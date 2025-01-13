@@ -1,4 +1,3 @@
-# Daniel Hernandez
 <h1 align="center">
   <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
   <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
@@ -9,7 +8,7 @@
 
 ---
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h1 align="center">Hi everybody <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">, I'm Vladimir.</h1>
+<h1 align="center">Hi everybody <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">, I'm Danny894.</h1>
 <h3 align="center"> Frontend Developer </h3>
 
 ---
