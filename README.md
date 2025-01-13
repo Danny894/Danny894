@@ -8,7 +8,9 @@
 </h1>
 
 ---
-
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<h1 align="center">Hi everybody <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">, I'm Vladimir.</h1>
+<h3 align="center"> Frontend Developer </h3>
 
 ---
 
