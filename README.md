@@ -1,7 +1,7 @@
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">Hi everybody <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">, I'm Danny894.</h1>
 <h3 align="center"> Frontend Developer </h3>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px> About Me
 
