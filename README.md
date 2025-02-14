@@ -9,8 +9,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "250px" alt="About Me Image">
 </picture>
 
-**Front-End Developer** with experience in designing and developing web applications using modern technologies such as **React, JavaScript, TypeScript, CSS, HTML, Node.js, PHP, and SQL.** Passionate about creating intuitive, streamlined, and functional user interfaces, with a focus on writing clean code and efficient solutions. Additionally, I have fundamental knowledge in **cybersecurit**y, which allows me to implement protective measures in my software projects.
-
+Software Developer with Front-End specialization and experience in web development. I have solid knowledge in HTML, CSS and JavaScript, creating dynamic and responsive interfaces with a focus on usability and performance. On the Back-End, my forte is Python, where I develop APIs and services using frameworks such as Flask or FastAPI and SQL databases. I have experience in system integration and API consumption, which allows me to efficiently connect the Front-End with server logic. I am always looking to improve my skills and learn new technologies to develop optimal and scalable solutions. 🚀
 ---
 
 ## 🖥️ Skills
